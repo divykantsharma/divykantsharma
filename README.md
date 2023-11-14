@@ -5,7 +5,7 @@
  
 <p align="left"> <a href="https://twitter.com/kantdivy" target="blank"><img src="https://img.shields.io/twitter/follow/kantdivy?logo=twitter&style=for-the-badge" alt="kantdivy" /></a> </p>
 
-- 💬 Ask me about **Data, DSA, Development** 
+- 💬 Ask me about **Data, DSA, Development**
 
 - 📫 How to reach me **dvykntsharma123@gmail.com**
 
