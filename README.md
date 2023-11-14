@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divykantsharma&label=Profile%20views&color=0e75b6&style=flat" alt="divykantsharma"/></p> 
-
+ 
 <p align="left"> <a href="https://twitter.com/kantdivy" target="blank"><img src="https://img.shields.io/twitter/follow/kantdivy?logo=twitter&style=for-the-badge" alt="kantdivy" /></a> </p>
 
 - 💬 Ask me about **Data, DSA, Development** 
